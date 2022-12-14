@@ -1,0 +1,17 @@
+email : pari@doubledotts.com
+password; Abcd@123
+
+
+create user
+
+User_1 -7
+User@123
+
+
+User_2 - 8
+User@222
+
+
+Front:
+8
+User@222
